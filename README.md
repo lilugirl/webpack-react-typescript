@@ -1,2 +1,2 @@
-# webpack-react
-从零用wepack搭建的react项目
+# webpack-react-typescript
+从零用wepack搭建的typescript react项目
